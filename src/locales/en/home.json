@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome back",
+  "monthly_summary": "Monthly Summary",
+  "income": "Income",
+  "expense": "Expenses",
+  "accounts": "Accounts",
+  "view_all": "View all",
+  "search": "Search",
+  "recent_transactions": "Recent Transactions",
+  "no_transactions": "No Transactions",
+  "no_transactions_desc": "Make your first transaction by clicking “+” button",
+  "no_accounts": "You've got nothing!!",
+  "no_accounts_desc": "Begin by setting up your initial account, which will assist you in adding transactions.",
+  "create_account": "Create Account"
+}

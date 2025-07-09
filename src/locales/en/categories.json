@@ -1,0 +1,22 @@
+{
+  "title": "Categories",
+  "type": {
+    "expense": "Expense",
+    "income": "Income"
+  },
+  "actions": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add"
+  },
+  "empty": {
+    "title": "No {{type}} categories yet",
+    "description": "Add a new category to get started"
+  },
+  "delete_modal": {
+    "title": "Are you sure?",
+    "message": "You won't be able to undo this action. The transaction will not be deleted, but the category will be removed.",
+    "confirm": "Delete",
+    "cancel": "Cancel"
+  }
+}

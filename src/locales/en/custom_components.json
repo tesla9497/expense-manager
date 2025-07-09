@@ -1,0 +1,45 @@
+{
+  "alert_portal": {
+    "default": {
+      "title": "Title",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "close": "Close",
+      "confirm": "Confirm"
+    }
+  },
+  "amount_input": {
+    "label": "Amount",
+    "placeholder": "0"
+  },
+  "create_category_modal": {
+    "title": "Create Category",
+    "name": {
+      "label": "Category Name",
+      "placeholder": "Enter category name"
+    },
+    "type": {
+      "label": "Type",
+      "expense": "Expense",
+      "income": "Income"
+    },
+    "icon": {
+      "label": "Icon"
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "save": "Save"
+    }
+  },
+  "swipeable_card": {
+    "actions": {
+      "duplicate": "Duplicate",
+      "delete": "Delete"
+    },
+    "delete_modal": {
+      "title": "Are you sure?",
+      "message": "You won't be able to undo this action",
+      "confirm": "Delete",
+      "cancel": "Cancel"
+    }
+  }
+}

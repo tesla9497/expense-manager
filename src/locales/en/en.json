@@ -1,0 +1,12 @@
+{
+  "onboarding": "{{onboarding}}",
+  "auth": "{{auth}}",
+  "account": "{{account}}",
+  "success": "{{success}}",
+  "home": "{{home}}",
+  "profile": "{{profile}}",
+  "settings": "{{settings}}",
+  "categories": "{{categories}}",
+  "custom_components": "{{custom_components}}",
+  "transaction": "{{transaction}}"
+}

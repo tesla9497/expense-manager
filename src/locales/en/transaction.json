@@ -1,0 +1,137 @@
+{
+  "create": {
+    "title": "Create Transaction",
+    "amount": {
+      "title": {
+        "expense": "Please input the amount you wish to deduct.",
+        "income": "Please input the amount you wish to add.",
+        "transfer": "Please input the amount you wish to transfer."
+      }
+    },
+    "account": {
+      "label": "Account",
+      "placeholder": "eg. Cash",
+      "from": {
+        "label": "From Account",
+        "placeholder": "eg. Salary"
+      },
+      "to": {
+        "label": "To Account",
+        "placeholder": "eg. Savings"
+      }
+    },
+    "category": {
+      "label": "Category",
+      "placeholder": "eg. Entertainment",
+      "title": "Category",
+      "add": "Add Category"
+    },
+    "date": {
+      "label": "Date",
+      "placeholder": "eg. 01/01/2023"
+    },
+    "cleared": "Cleared",
+    "note": {
+      "label": "Note (optional)",
+      "placeholder": "eg. Purpose of the expense."
+    },
+    "button": "Create Transaction",
+    "type": {
+      "expense": "Expense",
+      "income": "Income",
+      "transfer": "Transfer"
+    }
+  },
+  "list": {
+    "title": "Transaction",
+    "total": {
+      "expense": "Total Expense",
+      "income": "Total Income"
+    },
+    "filter": {
+      "title": "Filter transactions",
+      "reset": "Reset",
+      "account": "Account",
+      "type": "Transaction Type",
+      "category": "Category",
+      "amount": "Amount",
+      "date": "Date",
+      "sort": {
+        "title": "Sort By",
+        "date_asc": "Date Asc",
+        "date_desc": "Date Desc",
+        "amount_asc": "Amount Asc",
+        "amount_desc": "Amount Desc"
+      },
+      "apply": "Apply Filter {{count}}",
+      "date_picker": {
+        "start": {
+          "label": "Start Date",
+          "placeholder": "eg. 01/01/2023"
+        },
+        "end": {
+          "label": "End Date",
+          "placeholder": "eg. 01/01/2023"
+        }
+      },
+      "types": {
+        "all": "All",
+        "transfer": "Transfer",
+        "expense": "Expense",
+        "income": "Income"
+      }
+    }
+  },
+  "edit": {
+    "title": "Edit Transaction",
+    "amount": {
+      "title": {
+        "expense": "Please input the amount you wish to deduct.",
+        "income": "Please input the amount you wish to add.",
+        "transfer": "Please input the amount you wish to transfer."
+      }
+    },
+    "account": {
+      "label": "Account",
+      "placeholder": "eg. Cash",
+      "from": {
+        "label": "From Account",
+        "placeholder": "eg. Salary"
+      },
+      "to": {
+        "label": "To Account",
+        "placeholder": "eg. Savings"
+      }
+    },
+    "category": {
+      "label": "Category",
+      "placeholder": "eg. Entertainment",
+      "title": "Category",
+      "add": "Add Category"
+    },
+    "date": {
+      "label": "Date",
+      "placeholder": "eg. 01/01/2023"
+    },
+    "cleared": "Cleared",
+    "note": {
+      "label": "Note (optional)",
+      "placeholder": "eg. Purpose of the expense."
+    },
+    "button": {
+      "update": "Update Transaction",
+      "delete": "Delete Transaction"
+    },
+    "delete": {
+      "title": "Are you sure?",
+      "message": "You won't be able to undo this action",
+      "confirm": "Delete",
+      "cancel": "Cancel"
+    },
+    "type": {
+      "expense": "Expense",
+      "income": "Income",
+      "transfer": "Transfer"
+    }
+  }
+}

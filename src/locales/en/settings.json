@@ -1,0 +1,59 @@
+{
+  "title": "Settings",
+  "user_preference": {
+    "title": "User Preference",
+    "currency": "Currency",
+    "language": "Language",
+    "theme": {
+      "label": "Theme",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "notifications": "Notifications",
+    "categories": "Categories"
+  },
+  "data_management": {
+    "title": "Data Management",
+    "backup": "Backup Data",
+    "restore": "Restore Data",
+    "delete_reset": "Delete & Reset"
+  },
+  "general": {
+    "title": "General",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms and Conditions",
+    "help_support": "Help and Support"
+  },
+  "version": "Version {{version}}",
+  "selection": {
+    "currency": {
+      "title": "Currency"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "theme": {
+      "title": "Theme"
+    }
+  },
+  "data_reset": {
+    "title": "Manage Data",
+    "message": "Choose how you want to reset the application:",
+    "delete": {
+      "title": "Delete All Data",
+      "description": "Keeps your accounts but removes all transactions and settings. Account balances will be reset to 0.",
+      "confirm_title": "Are you sure you want to delete all data?",
+      "confirm_message": "This action cannot be undone.",
+      "confirm_button": "Yes, Delete All Data"
+    },
+    "reset": {
+      "title": "Reset Everything",
+      "description": "Completely resets the application. All accounts, transactions, and settings will be deleted.",
+      "confirm_title": "Are you sure you want to reset everything?",
+      "confirm_message": "This action cannot be undone.",
+      "confirm_button": "Yes, Reset Everything"
+    },
+    "cancel": "Cancel",
+    "no_cancel": "No, Cancel"
+  }
+} 

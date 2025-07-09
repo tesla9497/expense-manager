@@ -1,0 +1,86 @@
+{
+  "title": "All Accounts",
+  "net_worth": "Net Worth",
+  "export_button": "Export",
+  "no_accounts": "You've got nothing!!",
+  "no_accounts_desc": "Begin by setting up your initial account, which will assist you in adding transactions.",
+  "create_account": "Create Account",
+  "export": {
+    "title": "Export Transactions",
+    "message": "Select the date range to export transactions.",
+    "actions": {
+      "cancel": "Cancel",
+      "save": "Save"
+    },
+    "date_picker": {
+      "start_date": {
+        "label": "Start Date",
+        "placeholder": "eg. 01/01/2023"
+      },
+      "end_date": {
+        "label": "End Date",
+        "placeholder": "eg. 01/12/2023"
+      }
+    }
+  },
+  "details": {
+    "title": "Account Details",
+    "loading": "Loading account details...",
+    "transactions": "Transactions",
+    "starting_balance": "Starting Balance: {symbol}{amount}",
+    "transaction": {
+      "expense": "Expense",
+      "income": "Income",
+      "transfer": "Transfer"
+    },
+    "no_transactions": "No transactions found"
+  },
+  "create": {
+    "title": "Create Account",
+    "subtitle1": "Let's create your first account",
+    "subtitle2": "Track your expenses and income",
+    "skip": "Skip",
+    "amount_input_title": "Please enter the amount you wish to add to this account.",
+    "name_label": "Account Name",
+    "name_placeholder": "eg. Bank Name",
+    "date_label": "Date",
+    "date_placeholder": "eg. 01/01/2023",
+    "type_label": "Account Type",
+    "color_label": "Color",
+    "create_button": "Create Account",
+    "unknown": "Unknown"
+  },
+  "edit": {
+    "title": "Edit Account",
+    "name": {
+      "label": "Account Name",
+      "placeholder": "Enter account name"
+    },
+    "amount": {
+      "label": "Please enter the amount you wish to add to this account."
+    },
+    "type": {
+      "label": "Account Type",
+      "placeholder": "Select account type"
+    },
+    "icon": {
+      "label": "Icon"
+    },
+    "color": {
+      "label": "Color"
+    },
+    "balance": {
+      "label": "Starting Balance",
+      "placeholder": "0"
+    },
+    "actions": {
+      "update": "Update Account",
+      "delete": "Delete Account"
+    },
+    "delete": {
+      "title": "Are you sure?",
+      "message": "You won't be able to undo this action",
+      "confirm": "Delete"
+    }
+  }
+}
